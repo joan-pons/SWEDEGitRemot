@@ -11,4 +11,5 @@ package javaapplication9;
  */
 public class NewClass {
     String asd;
+    int edat;
 }
