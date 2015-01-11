@@ -10,5 +10,5 @@ package javaapplication9;
  * @author joan
  */
 public class NewClass {
-    
+    String asd;
 }
