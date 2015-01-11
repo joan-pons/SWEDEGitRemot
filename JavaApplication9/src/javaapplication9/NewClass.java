@@ -9,13 +9,6 @@ package javaapplication9;
  *
  * @author joan
  */
-public class JavaApplication9 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hola");
-    }
+public class NewClass {
     
 }
